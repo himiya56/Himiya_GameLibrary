@@ -1,0 +1,128 @@
+﻿  weapon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\weapon.cpp(67): warning C4101: 'fAngleRate': ローカル変数は 1 度も使われていません。
+  sound.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\sound.cpp(235): warning C4101: 'SHandle': ローカル変数は 1 度も使われていません。
+  sight.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Score.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  result.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\result.cpp(80): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\result.cpp(86): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\result.cpp(174): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\result.cpp(180): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' の宣言を確認してください
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\result.cpp(194): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+  renderer.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  polygon3d.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\polygon3d.cpp(86): warning C4244: '引数': 'CObject::OBJ_TYPE' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\polygon3d.cpp(87): warning C4244: '引数': 'CObject::OBJ_TYPE' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\polygon3d.cpp(88): warning C4244: '引数': 'CObject::OBJ_TYPE' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\polygon3d.cpp(89): warning C4244: '引数': 'CObject::OBJ_TYPE' から 'FLOAT' への変換です。データが失われる可能性があります。
+  player.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\player.cpp(181): warning C4809: switch 文に冗長な 'default' ラベルが存在します。可能な 'case' 条件はすべて記述されています
+  number.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  map.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\map.cpp(63): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\map.cpp(138): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\map.cpp(139): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\map.cpp(140): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\map.cpp(141): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' の宣言を確認してください
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\map.cpp(147): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' の宣言を確認してください
+  manager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  magazine.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  life.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Library.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  item.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\item.cpp(90): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  select.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\select.cpp(79): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  pause.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\pause.cpp(76): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\pause.cpp(76): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\pause.cpp(77): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\pause.cpp(77): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\pause.cpp(78): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\pause.cpp(78): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\pause.cpp(79): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\pause.cpp(79): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  particle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\particle.cpp(53): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  logo.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  コードを生成中...
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\item.cpp(220): warning C4715: 'CItem::ItemHit': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  equipment.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  enemy.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\enemy.cpp(96): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\enemy.cpp(101): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\enemy.cpp(109): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  combo.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  bullet.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\bullet.cpp(58): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  block.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  bg.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  コードを生成中...
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\bullet.cpp(202): warning C4715: 'CBullet::BulletHit': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  title.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  polygon2d.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  object.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  keyboard.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  input.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  fade.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  explosion.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  option.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\option.cpp(81): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  effect.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  camera.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\gsp029\documents\visual studio 2015\projects\polygon 2020.07.07\polygon 2020.07.07\camera.cpp(121): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  boss.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  コードを生成中...
+  Polygon 2020.07.07.vcxproj -> C:\Users\gsp029\Documents\Visual Studio 2015\Projects\Polygon 2020.07.07\Debug\Polygon 2020.07.07.exe
+  Polygon 2020.07.07.vcxproj -> C:\Users\gsp029\Documents\Visual Studio 2015\Projects\Polygon 2020.07.07\Debug\Polygon 2020.07.07.pdb (Full PDB)

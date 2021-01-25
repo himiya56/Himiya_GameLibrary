@@ -1,0 +1,12 @@
+﻿  camera.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+camera.cpp(121): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  game.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  コード生成しています。
+  0 of 363 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Polygon 2020.07.07.vcxproj -> C:\Users\gsp029\Documents\Visual Studio 2015\Projects\Polygon 2020.07.07\Release\Polygon 2020.07.07.exe
+  Polygon 2020.07.07.vcxproj -> C:\Users\gsp029\Documents\Visual Studio 2015\Projects\Polygon 2020.07.07\Release\Polygon 2020.07.07.pdb (Full PDB)
